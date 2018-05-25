@@ -1,0 +1,91 @@
+{
+    "Categories": [
+        {
+            "ID": 1,
+            "Title": "Frukt og bær",
+            "Color": "#313131"
+        },
+        {
+            "ID": 2,
+            "Title": "Dyr",
+            "Color": "#62CEB8"
+        },
+        {
+            "ID": 3,
+            "Title": "Havet",
+            "Color": "#FB8F09"
+        }
+    ],
+    "Articles": [
+         {
+             "Category": 3,
+             "Date": 1526396949,
+             "Image": "images/beach.jpg",
+             "Title": "beach",
+             "Text": "Med tanke på en forretningsorientert kvalitetsheving maksimeres arkitekturen utenom programvaregrensesnittet."
+         },
+         {
+             "Category": 1,
+             "Date": 1526828949,
+             "Image": "images/blueberries.jpg",
+             "Title": "blueberries",
+             "Text": "Gitt en tjenesteorientert oppgaveløsning tilgjengeliggjøres tjenesteporteføljen på linje med standardiseringen."
+         },
+         {
+             "Category": 2,
+             "Date": 1526569749,
+             "Image": "images/eagle.jpg",
+             "Title": "eagle",
+             "Text": "Etter en totalvurdering av en proaktiv utvikling tilgjengeliggjøres konfigurasjonsoppsettet innenfor rammen av implementeringen."
+         },
+         {
+             "Category": 2,
+             "Date": 1526310549,
+             "Image": "images/giraffe.jpg",
+             "Title": "giraffe",
+             "Text": "Sammenholdt med en integrert effektivisering driftssettes samhandlingspotensiale i relasjon til systemutviklingen."
+         },
+         {
+             "Category": 1,
+             "Date": 1526742549,
+             "Image": "images/gooseberries.jpg",
+             "Title": "gooseberries",
+             "Text": "Sett på bakgrunn av en cloudstrategisk mobilitet tilgjengeliggjøres informasjonsflyten gjennom nettbrettet."
+         },
+         {
+             "Category": 2,
+             "Date": 1526569749,
+             "Image": "images/horses.jpg",
+             "Title": "horses",
+             "Text": "Med utgangspunkt i en balanseoptimalisert innovasjon effektueres brukertilfredsheten på linje med sikkerhetspolicyen"
+         },
+         {
+             "Category": 1,
+             "Date": 1526310549,
+             "Image": "images/raspberries.jpg",
+             "Title": "raspberries",
+             "Text": "Avhengig av en forretningsorientert effektivisering genereres forankringen på samme måte som teknologien."
+         },
+         {
+             "Category": 3,
+             "Date": 1526915349,
+             "Image": "images/sailing-boat.jpg",
+             "Title": "sailing-boat",
+             "Text": "I betraktning av en rollestyrt offshoring tilgjengeliggjøres IT-strategien parallelt med teknologien."
+         },
+         {
+             "Category": 2,
+             "Date": 1526656149,
+             "Image": "images/sharks.jpg",
+             "Title": "sharks",
+             "Text": "Sett hen til en kravoptimalisert distribusjon tas det høyde for kapasiteten i motsetning til en samlet vurdering."
+         },
+         {
+             "Category": 1,
+             "Date": 1526396949,
+             "Image": "images/strawberries.jpg",
+             "Title": "strawberries",
+             "Text": "I betraktning av en optimal struktur kommuniseres kunnskapsforankringen på bakgrunn av virkelighetsoppfattelsen."
+         }
+    ]
+}
